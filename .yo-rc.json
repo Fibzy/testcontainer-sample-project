@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "testcontainerSampleProject",
+    "packageName": "de.fibz.beyond.unit.test",
+    "packageFolder": "de/fibz/beyond/unit/test",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NjFhOWJiZGMxNmFmNjZkNzM0NGI3ODc5ZThiNjEzNDUwODI0MDM1ZDUzY2U5ODk4NTRlMjNlZDJhNjg4ZDE5MmMzY2M2MmE5OWE0MjNjNDQxOTUwNzM4ZTM5Y2MxYWZkMGFiYWY1ZTU1OTMwODMxZTY1MGEwYmI2YzM1ZDcxZGY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Fibzy",
+  "repository-name": "testcontainer-sample-project"
+}
